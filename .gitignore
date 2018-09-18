@@ -1,0 +1,5 @@
+/Data/*
+/MATLAB/*
+*__pycache__*
+*.pyc
+*.csv
